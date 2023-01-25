@@ -10,3 +10,11 @@ main {
     text-align: center;
     font-size: 1.5rem;
 }
+.result{
+    background-color: green;
+    color:#fff;
+    padding:20px;
+  }
+  .row{
+    display:flex;
+  }
